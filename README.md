@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Paweł Liniewski
+#### Data Analyst
+![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**pliniewski/pliniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am aspired Junior Data Analyst and I am very excited to gain my first commercial experience in this field. I have successfully completed Python and SQL courses. Also, I have profound knowledge of MS Excel and Power Query. My focus is now concetrated on expanding knowledge of data modeling in Power BI tool. My main strenghts are analitycal thinking, problem solving mindset, efficiency in completing projects, good teamwork. I treat my challeges with responsibility and commitment. 
 
-Here are some ideas to get you started:
+Skills: Python/SQL/Excel & VBA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating my portfolio. 
+- 🌱 I’m currently learning Power BI tools 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pliniewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pliniewski/)  
+
