@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Paweł Liniewski
 #### Data Analyst
-![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am aspired Junior Data Analyst and I am very excited to gain my first commercial experience in this field. I have successfully completed Python and SQL courses. Also, I have profound knowledge of MS Excel and Power Query. My focus is now concetrated on expanding knowledge of data modeling in Power BI tool. My main strenghts are analitycal thinking, problem solving mindset, efficiency in completing projects, good teamwork. I treat my challeges with responsibility and commitment. 
 
