@@ -10,5 +10,5 @@ Skills: Python/SQL/Excel & VBA
 - 🌱 I’m currently learning Power BI tools 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pliniewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pliniewski/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg' alt='chrome' height='40'>(https://pliniewski.netlify.app/)]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pliniewski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pliniewski/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg' alt='chrome' height='40'>](https://pliniewski.netlify.app/)
 
